@@ -1,4 +1,5 @@
-('C:\\Users\\João\\Desktop\\spyware\\build\\WindowsSecurity\\PYZ-00.pyz',
+('C:\\Users\\João\\Documents\\Faculdade\\6° Semestre\\Segurança e auditoria de '
+ 'sistemas\\spyware\\build\\WindowsSecurity\\PYZ-00.pyz',
  [('Xlib',
    'C:\\Users\\João\\AppData\\Roaming\\Python\\Python312\\site-packages\\Xlib\\__init__.py',
    'PYMODULE'),
